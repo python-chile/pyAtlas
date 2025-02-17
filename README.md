@@ -1,5 +1,5 @@
 # pyAtlas 🗺️
-Poyecto para recopilar libs, tools, otros, relacionado con python en un archivo simple
+Proyecto para recopilar libs, tools, otros, relacionado con Python en un archivo simple.
 
 ---
 
