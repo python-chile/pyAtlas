@@ -18,4 +18,4 @@ Proyecto para recopilar libs, tools, otros, relacionado con Python en un archivo
 |-----------------------------|-------------------------------------------------------------------------------------------------------------------|-------|
 | [NumPy](https://numpy.org/) | Librería para la computación científica ocupando operaciones matemáticas complejas en matrices multidimensionales | 📚    |
 | [Quarto](https://quarto.org/)                  | Sistema open source para la creación de publicaciones técnicas con soporte con python | 🛠️   |
-| [FastAPI]()                 | Web framework para la creación de APIs | 👷‍♂️ |
+| [FastAPI](https://fastapi.tiangolo.com/)                 | Web framework para la creación de APIs | 👷‍♂️ |
