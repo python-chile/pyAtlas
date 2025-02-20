@@ -23,3 +23,9 @@ Proyecto para recopilar libs, tools, otros, relacionado con Python en un archivo
 | [Pyvista](https://docs.pyvista.org/) | Representación y análisis de mallas en 3D a través de una interfaz optimizada para el Kit de Visualización (VTK) | 📚 |
 | [Open3D](https://www.open3d.org/) | Una Biblioteca Moderna para el Procesamiento de Datos 3D | 📚  |
 | [Streamlit](https://streamlit.io) | Es una herramienta de Python que permite crear aplicaciones web interactivas y visualizaciones de datos   | 🛠️ |
+| [Matplotlib](https://matplotlib.org/) | Base de visualización en Python, permite gráficos altamente personalizables | 📊 |
+| [Seaborn](https://seaborn.pydata.org/) | Basado en Matplotlib, facilita gráficos estadísticos atractivos y bien diseñados | 📊 |
+| [Plotly](https://plotly.com/python/) | Crea gráficos interactivos ideales para dashboards y análisis exploratorio | 📊 |
+| [Bokeh](https://bokeh.org/) | Especializado en visualizaciones interactivas y escalables para grandes volúmenes de datos | 📊 |
+| [Folium](https://python-visualization.github.io/folium/) | Librería para generar mapas interactivos con Leaflet en Python | 🗺️ |
+| [Geopandas](https://geopandas.org/) | Extiende pandas para facilitar el manejo y visualización de datos geoespaciales | 🗺️ |
