@@ -35,3 +35,5 @@ Proyecto para recopilar libs, tools, otros, relacionado con Python en un archivo
 | [Bokeh](https://bokeh.org/)                                | Especializado en visualizaciones interactivas y escalables para grandes volúmenes de datos                        | 📚 |
 | [Folium](https://python-visualization.github.io/folium/)   | Librería para generar mapas interactivos con Leaflet en Python                                                    | 📚 |
 | [Geopandas](https://geopandas.org/)                        | Extiende pandas para facilitar el manejo y visualización de datos geoespaciales                                   | 📚 |
+| [OpenPyxl](https://openpyxl.readthedocs.io/en/stable/)     | Libreria para manejar archivos XLSX/XLSM                                                                          | 📚 |
+| [Pandas](https://pandas.pydata.org/)                       | Manejo y procesamiento de archivos CSV, Excel, JSON, etc.                                                         | 📚 |
