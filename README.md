@@ -28,3 +28,11 @@ Proyecto para recopilar libs, tools, otros, relacionado con Python en un archivo
 | [Pelican](https://getpelican.com/)                         | Generador de sitios estáticos                                                                                     | 🛠️ |
 | [AstroPy](https://www.astropy.org/)                        | Librería con funciones útiles para operaciones relacionadas con la astronomía                                     | 📚 |
 | [Scikit-learn](https://scikit-learn.org/stable/)           | Conjunto de algoritmos numéricos y científicos orientados al área de machine learning                             | 📚 |
+| [Matplotlib](https://matplotlib.org/)                      | Base de visualización en Python, permite gráficos altamente personalizables                                       | 📚 |
+| [Seaborn](https://seaborn.pydata.org/)                     | Basado en Matplotlib, facilita gráficos estadísticos atractivos y bien diseñados                                  | 📚 |
+| [Plotly](https://plotly.com/python/)                       | Crea gráficos interactivos ideales para dashboards y análisis exploratorio                                        | 📚 |
+| [Bokeh](https://bokeh.org/)                                | Especializado en visualizaciones interactivas y escalables para grandes volúmenes de datos                        | 📚 |
+| [Folium](https://python-visualization.github.io/folium/)   | Librería para generar mapas interactivos con Leaflet en Python                                                    | 📚 |
+| [Geopandas](https://geopandas.org/)                        | Extiende pandas para facilitar el manejo y visualización de datos geoespaciales                                   | 📚 |
+| [OpenPyxl](https://openpyxl.readthedocs.io/en/stable/)     | Libreria para manejar archivos XLSX/XLSM                                                                          | 📚 |
+| [Pandas](https://pandas.pydata.org/)                       | Manejo y procesamiento de archivos CSV, Excel, JSON, etc.                                                         | 📚 |
