@@ -28,7 +28,6 @@ Proyecto para recopilar libs, tools, otros, relacionado con Python en un archivo
 | [Pelican](https://getpelican.com/)                         | Generador de sitios estáticos                                                                                     | 🛠️ |
 | [AstroPy](https://www.astropy.org/)                        | Librería con funciones útiles para operaciones relacionadas con la astronomía                                     | 📚 |
 | [Scikit-learn](https://scikit-learn.org/stable/)           | Conjunto de algoritmos numéricos y científicos orientados al área de machine learning                             | 📚 |
-| [Streamlit](https://streamlit.io)                          | Es una herramienta de Python que permite crear aplicaciones web interactivas y visualizaciones de datos           | 📚 |
 | [Matplotlib](https://matplotlib.org/)                      | Base de visualización en Python, permite gráficos altamente personalizables                                       | 📚 |
 | [Seaborn](https://seaborn.pydata.org/)                     | Basado en Matplotlib, facilita gráficos estadísticos atractivos y bien diseñados                                  | 📚 |
 | [Plotly](https://plotly.com/python/)                       | Crea gráficos interactivos ideales para dashboards y análisis exploratorio                                        | 📚 |
