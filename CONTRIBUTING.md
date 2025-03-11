@@ -26,7 +26,7 @@ Para el caso que haya una issue creada y bajo esta se hace un aporte, basarse en
 - Merge y squash para finalizar la pull request.
 
 ### Nomenclatura rama
-- Debe seguir el formato pch-< tipo >-< número issue >-< breve titulo > ejemplo pch-fix-34-enlaces-libs-data
+- Debe seguir el formato pch-< tipo >-< número issue >-< breve titulo > ejemplo: `pch-fix-34-enlaces-libs-data`
 - Tener en consideración:
   - Tipo: Puede ser fix o feature.
   - Breve título: Una descripción relacionado con la issue.
@@ -42,7 +42,7 @@ Para el caso de aportes simples que sólo agregar elementos a la lista, basarse 
 - Debe contener al menos una aprobación, cualquier cambio nuevo, anula la mínima aprobación previa.
 
 ### Nomenclatura rama
-- Debe seguir el formato pch-< tipo >-< breve titulo > ejemplo pch-feature-framworks-web
+- Debe seguir el formato pch-< tipo >-< breve titulo > ejemplo: `pch-feature-framworks-web`
 - Tener en consideración:
   - Tipo: Debe ser feature
   - Breve título: Descripción breve, no es necesario que sea descriptivo en su totalidad ya que dentro de esta puede haber un mix de libs, tools, u otros que no tengan une relación para ser abarcados en el título.
