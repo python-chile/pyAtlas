@@ -2,6 +2,10 @@
 Proyecto para recopilar libs, tools, otros, relacionado con Python en un archivo simple.
 
 ---
+ ## Para contribuir 🤝
+Seguir las normas definidas en archivo CONTRIBUTING.md
+
+---
 
 ## Simbología
 | Tipo      | Símbolo |
