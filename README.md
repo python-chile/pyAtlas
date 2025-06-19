@@ -40,3 +40,6 @@ Seguir las normas definidas en archivo CONTRIBUTING.md
 | [Geopandas](https://geopandas.org/)                        | Extiende pandas para facilitar el manejo y visualización de datos geoespaciales                                   | 📚 |
 | [OpenPyxl](https://openpyxl.readthedocs.io/en/stable/)     | Libreria para manejar archivos XLSX/XLSM                                                                          | 📚 |
 | [Pandas](https://pandas.pydata.org/)                       | Manejo y procesamiento de archivos CSV, Excel, JSON, etc.                                                         | 📚 |
+| [UV](https://docs.astral.sh/uv/)                           | Administrador de proyectos y paquetes                                                                             | 🛠️ |
+| [Streamlit](https://docs.streamlit.io/)                    | Creación de aplicaciones intecractivas de ciencia de datos                                                        | 👷‍ |
+| [Poetry](https://python-poetry.org/)                       | Administrador de paquetes y dependencias                                                                          | 🛠️ |
