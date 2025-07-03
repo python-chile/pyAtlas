@@ -47,3 +47,5 @@ Seguir las normas definidas en archivo CONTRIBUTING.md
 | [Reflex](https://reflex.dev/docs/getting-started/introduction/) | Desarrollo frontend interactivo con código python                                                                 | 👷‍   |
 | [PyOdide](https://pyodide.org/en/stable/index.html)             | Ejecución de código python en el navegador. Permite integrar libs, scripts, elementos interactivos, entre otros.  | 👷‍   |
 | [PyScript](https://docs.pyscript.net/2025.5.1/)                 | Integración de código python como script en el navegador                                                          | 👷‍   |
+| [Python Anywhere](https://www.pythonanywhere.com/)              | Host para aplicaciones python, contiene plan gratuito para hacer POC                                              | 🛠️ |
+| [Ploomber](https://ploomber.io/)                                | Servicio cloud con integración de diferentes framworks de python                                                  | 🛠  |
